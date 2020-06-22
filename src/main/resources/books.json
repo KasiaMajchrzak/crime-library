@@ -1,0 +1,37 @@
+[
+{
+"id": 1,
+"author": "Stephen King",
+"title": "Mr. Mercedes",
+"year": 2010,
+"price": 2.0
+},
+{
+"id": 2,
+"author": "Stephen King",
+"title": "Hand of a Master",
+"year": 2006,
+"price": 3.0
+},
+{
+"id": 3,
+"author": "Agatha Christie",
+"title": "Murder on the Orient Express",
+"year": 1980,
+"price": 2.5
+},
+{
+"id": 4,
+"author": "Dan Brown",
+"title": "The Da Vinci Code",
+"year": 2004,
+"price": 3.0
+},
+{
+"id": 5,
+"author": "Dan Brown",
+"title": "Inferno",
+"year": 2013,
+"price": 3.5
+}
+]
